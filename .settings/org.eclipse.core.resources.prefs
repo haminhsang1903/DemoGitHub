@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/order.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/showTable.jsp=UTF-8
+encoding//src/poly/controller/HomeController.java=UTF-8
+encoding//src/poly/dao/BillDAO.java=UTF-8
